@@ -5,45 +5,36 @@
     <link>https://whn45.github.io/categories/</link>
     <description>Recent content in Categories on Whn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <language>zn-ch</language>
+    <lastBuildDate>Sat, 18 Aug 2018 20:14:59 +0800</lastBuildDate>
     
 	<atom:link href="https://whn45.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>releases</title>
-      <link>https://whn45.github.io/categories/releases/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>杂技浅尝</title>
+      <link>https://whn45.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+      <pubDate>Sat, 18 Aug 2018 20:14:59 +0800</pubDate>
       
-      <guid>https://whn45.github.io/categories/releases/</guid>
+      <guid>https://whn45.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tranquilpeak</title>
-      <link>https://whn45.github.io/categories/tranquilpeak/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>品鉴评论</title>
+      <link>https://whn45.github.io/categories/%E5%93%81%E9%89%B4%E8%AF%84%E8%AE%BA/</link>
+      <pubDate>Sun, 12 Aug 2018 23:03:12 +0800</pubDate>
       
-      <guid>https://whn45.github.io/categories/tranquilpeak/</guid>
+      <guid>https://whn45.github.io/categories/%E5%93%81%E9%89%B4%E8%AF%84%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>showcase</title>
-      <link>https://whn45.github.io/categories/showcase/</link>
-      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <title>test</title>
+      <link>https://whn45.github.io/categories/test/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>https://whn45.github.io/categories/showcase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>features</title>
-      <link>https://whn45.github.io/categories/features/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://whn45.github.io/categories/features/</guid>
+      <guid>https://whn45.github.io/categories/test/</guid>
       <description></description>
     </item>
     
